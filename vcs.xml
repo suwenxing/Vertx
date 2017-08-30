@@ -38,8 +38,12 @@
           <option name="url" value="http://fex.staff.ifeng.com/suwx/spiderdemo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://fex.staff.ifeng.com/zhusy/weixinspider.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\ProjectCode" />
+    <option name="cloneParentDir" value="E:\code\ifeng\spiderPage" />
   </component>
 </application>
