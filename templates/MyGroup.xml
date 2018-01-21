@@ -1,5 +1,5 @@
 <templateSet group="MyGroup">
-  <template name="add" value="/**     &#10;  * @Description:    java类作用描述 &#10;  * @author:         suwx&#10;  * @CreateDate:     $date$ $time$&#10;  * @UpdateUser:     &#10;  * @UpdateDate:     &#10;  * @UpdateRemark:   The modified content&#10;  * @Version:        1.0&#10;  */" description="add" toReformat="false" toShortenFQNames="true">
+  <template name="add" value="/**     &#10;  * @Description:    java类作用描述&#10;  * @param&#10;  * @return  &#10;  * @author:         suwx&#10;  * @CreateDate:     $date$ $time$&#10;  * @UpdateUser:     &#10;  * @UpdateDate:     &#10;  * @UpdateRemark:   The modified content&#10;  * @Version:        1.0&#10;  */" description="add" toReformat="false" toShortenFQNames="true">
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
     <context>
