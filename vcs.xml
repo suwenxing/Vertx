@@ -102,6 +102,10 @@
           <option name="url" value="https://github.com/Yexianglei/dubbo-admin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://fex.staff.ifeng.com/xufh/mongoDemo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\ProjectCode\" />
