@@ -114,6 +114,14 @@
           <option name="url" value="https://gitee.com/vakinge/jeesuite-libs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://blog.csdn.net/qq_30242609/article/details/71024458" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/JueFan/BloomFilterTool.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\ProjectCode\" />
