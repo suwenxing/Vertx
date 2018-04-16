@@ -146,6 +146,10 @@
           <option name="url" value="https://gitee.com/xuxueli0323/xxl-crawler.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://fex.staff.ifeng.com/wanghl1/ASRTranscription.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\code" />
