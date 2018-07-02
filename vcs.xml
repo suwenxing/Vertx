@@ -158,6 +158,10 @@
           <option name="url" value="https://gitee.com/neverusedname/redis-bloom-filter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/liguobao/58HouseSearch.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\code" />
