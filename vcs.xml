@@ -210,6 +210,10 @@
           <option name="url" value="https://gitee.com/yu120/sequence.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/irrupt/youtube-downloader.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\code" />
