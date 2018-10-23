@@ -270,6 +270,14 @@
           <option name="url" value="https://gitee.com/lianqu1990/morphling.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.ifengidc.com/spider/staticManager" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.ifengidc.com/spider/staticManager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\code\ftpcode" />
